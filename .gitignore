@@ -1,0 +1,11 @@
+*.suo
+*.user
+*.userosscache
+Debug/
+Release/
+bin/
+obj/
+log/
+.vs/
+*.[Cc]ache
+!*.[Cc]ache/
